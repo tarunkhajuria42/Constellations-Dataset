@@ -1,7 +1,12 @@
-## Constellations Dataset generation code
+## Constellations Dataset 
 
+This dataset consists of multiple images like image d) of common objects as a difficult inference problem for humans and AI.
+![figure4](https://user-images.githubusercontent.com/5724484/164192792-d12c6760-6c8d-4080-9ff7-eadc30f6fb79.png)
+
+The full dataset can be found here:
+
+### Constellations Dataset Generation Code
 This repository contains the code used to generate the consellations images. 
-
 The demo of how to generate the constellations images is given here : Constellation_generation_demo.ipynb
 
 **Run the following notebook on google colab to see all the constellation generation pipeline functionality without any setup/downloads : Colab Demo.ipynb**
