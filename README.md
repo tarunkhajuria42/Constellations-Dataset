@@ -1,6 +1,6 @@
 ## Constellations Dataset 
 
-This dataset consists of multiple images like image d which hide common objects in the form of star constellations. We think that these image sets will act as a difficult visual inference problem and help study Iterative inference in humans and AI. 
+This dataset consists of multiple images like image d which hide common objects in the form of star constellations. We belive that these image sets will act as a difficult visual inference problem and help study Iterative inference in humans and AI. 
 ![figure4](https://user-images.githubusercontent.com/5724484/164192792-d12c6760-6c8d-4080-9ff7-eadc30f6fb79.png)
 
 The full dataset can be found here: https://osf.io/qf5tz/
