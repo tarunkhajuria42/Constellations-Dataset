@@ -1,5 +1,8 @@
 ## Constellations Dataset 
 
+Repository for the paper : https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Khajuria_Constellations_A_Novel_Dataset_for_Studying_Iterative_Inference_in_Humans_CVPRW_2022_paper.pdf
+
+
 This dataset consists of multiple images like image d which hide common objects in the form of star constellations. We belive that these image sets will act as a difficult visual inference problem and help study Iterative inference in humans and AI. 
 ![figure4](https://user-images.githubusercontent.com/5724484/164192792-d12c6760-6c8d-4080-9ff7-eadc30f6fb79.png)
 
